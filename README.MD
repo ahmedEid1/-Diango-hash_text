@@ -1,9 +1,11 @@
 # Hash Text
 
-## main goal hash input using sha3_256
+### main goal: 
+            hashing input using sha3_256
 
-## course link : `https://www.linkedin.com/learning/test-driven-development-in-django`
-
+### course link : 
+        `https://www.linkedin.com/learning/test-driven-development-in-django`
+        
 ### topic included :
     - Comparing functional and unit tests
     - Writing a test in Selenium
